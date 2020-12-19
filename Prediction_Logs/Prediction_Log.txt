@@ -1,0 +1,264 @@
+2020-02-12/15:24:38		Start of Validation on files for prediction!!
+2020-02-12/15:24:39		Raw Data Validation Complete!!
+2020-02-12/15:24:39		Starting Data Transforamtion!!
+2020-02-12/15:24:39		DataTransformation Completed!!!
+2020-02-12/15:24:39		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-12/15:24:56		Table creation Completed!!
+2020-02-12/15:24:56		Insertion of Data into Table started!!!!
+2020-02-12/15:30:18		Insertion in Table completed!!!
+2020-02-12/15:30:18		Deleting Good Data Folder!!!
+2020-02-12/15:30:18		Good_Data folder deleted!!!
+2020-02-12/15:30:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/15:30:18		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/15:30:18		Validation Operation completed!!
+2020-02-12/15:30:18		Extracting csv file from table
+2020-02-12/16:57:14		Start of Prediction
+2020-02-12/16:57:14		Entered the get_data method of the Data_Getter class
+2020-02-12/16:57:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/16:57:25		Entered the is_null_present method of the Preprocessor class
+2020-02-12/16:57:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/16:57:25		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/16:57:25		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/16:57:26		Entered the load_model method of the File_Operation class
+2020-02-12/16:57:26		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/16:57:44		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/16:57:44		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/16:57:46		Entered the load_model method of the File_Operation class
+2020-02-12/16:57:46		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/16:57:58		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/16:57:58		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/16:57:59		Entered the load_model method of the File_Operation class
+2020-02-12/16:57:59		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/16:58:01		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/16:58:01		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/16:58:02		Entered the load_model method of the File_Operation class
+2020-02-12/16:58:02		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/16:58:09		End of Prediction
+2020-02-12/17:22:53		Start of Prediction
+2020-02-12/17:22:53		Entered the get_data method of the Data_Getter class
+2020-02-12/17:22:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:22:53		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:22:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:22:53		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:22:53		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:22:53		Entered the load_model method of the File_Operation class
+2020-02-12/17:22:53		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:22:53		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:22:53		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:22:53		Entered the load_model method of the File_Operation class
+2020-02-12/17:22:53		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:22:53		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:22:53		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:22:53		Entered the load_model method of the File_Operation class
+2020-02-12/17:22:53		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:22:53		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:22:53		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:22:53		Entered the load_model method of the File_Operation class
+2020-02-12/17:22:53		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:22:53		Error occured while running the prediction!! Error:: 1 columns passed, passed data had 101 columns
+2020-02-12/17:29:14		Start of Prediction
+2020-02-12/17:29:14		Entered the get_data method of the Data_Getter class
+2020-02-12/17:29:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:29:14		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:29:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:29:14		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:29:14		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:29:14		Entered the load_model method of the File_Operation class
+2020-02-12/17:29:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:29:14		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:29:14		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:29:14		Entered the load_model method of the File_Operation class
+2020-02-12/17:29:14		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:29:14		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:29:14		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:29:14		Entered the load_model method of the File_Operation class
+2020-02-12/17:29:14		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:29:14		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:29:14		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:29:14		Entered the load_model method of the File_Operation class
+2020-02-12/17:29:14		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:29:14		End of Prediction
+2020-02-12/17:33:16		Start of Prediction
+2020-02-12/17:33:16		Entered the get_data method of the Data_Getter class
+2020-02-12/17:33:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:33:16		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:33:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:33:16		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:33:16		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:33:16		Entered the load_model method of the File_Operation class
+2020-02-12/17:33:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:33:16		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:33:16		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:33:16		Entered the load_model method of the File_Operation class
+2020-02-12/17:33:16		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:33:16		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:33:16		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:33:16		Entered the load_model method of the File_Operation class
+2020-02-12/17:33:16		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:33:16		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:33:16		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:33:16		Entered the load_model method of the File_Operation class
+2020-02-12/17:33:16		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:33:16		End of Prediction
+2020-02-12/17:37:09		Start of Prediction
+2020-02-12/17:37:09		Entered the get_data method of the Data_Getter class
+2020-02-12/17:37:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:37:09		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:37:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:37:09		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:37:09		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:37:09		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:09		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:09		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:09		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:09		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:10		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:10		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:10		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:10		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:10		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:10		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:10		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:10		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:10		End of Prediction
+2020-02-12/17:37:57		Start of Prediction
+2020-02-12/17:37:57		Entered the get_data method of the Data_Getter class
+2020-02-12/17:37:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:37:57		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:37:57		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:37:57		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:37:57		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:37:57		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:57		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:57		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:57		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:57		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:57		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:57		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:57		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:57		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:57		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:37:57		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:37:57		Entered the load_model method of the File_Operation class
+2020-02-12/17:37:57		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:37:57		End of Prediction
+2020-02-12/17:58:16		Start of Prediction
+2020-02-12/17:58:16		Entered the get_data method of the Data_Getter class
+2020-02-12/17:58:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/17:58:16		Entered the is_null_present method of the Preprocessor class
+2020-02-12/17:58:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/17:58:16		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/17:58:16		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/17:58:16		Entered the load_model method of the File_Operation class
+2020-02-12/17:58:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:58:18		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:58:18		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:58:18		Entered the load_model method of the File_Operation class
+2020-02-12/17:58:18		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:59:26		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:59:26		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:59:26		Entered the load_model method of the File_Operation class
+2020-02-12/17:59:26		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:59:26		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/17:59:26		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/17:59:26		Entered the load_model method of the File_Operation class
+2020-02-12/17:59:26		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/17:59:26		End of Prediction
+2020-02-12/19:13:50		Start of Validation on files for prediction!!
+2020-02-12/19:13:50		Raw Data Validation Complete!!
+2020-02-12/19:13:50		Starting Data Transforamtion!!
+2020-02-12/19:13:50		DataTransformation Completed!!!
+2020-02-12/19:13:50		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-12/19:13:52		Table creation Completed!!
+2020-02-12/19:13:52		Insertion of Data into Table started!!!!
+2020-02-12/19:14:05		Insertion in Table completed!!!
+2020-02-12/19:14:05		Deleting Good Data Folder!!!
+2020-02-12/19:14:05		Good_Data folder deleted!!!
+2020-02-12/19:14:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/19:14:05		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/19:14:05		Validation Operation completed!!
+2020-02-12/19:14:05		Extracting csv file from table
+2020-02-12/19:14:05		Start of Prediction
+2020-02-12/19:14:05		Entered the get_data method of the Data_Getter class
+2020-02-12/19:14:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/19:14:05		Entered the is_null_present method of the Preprocessor class
+2020-02-12/19:14:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/19:14:05		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/19:14:05		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/19:14:05		Entered the load_model method of the File_Operation class
+2020-02-12/19:14:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/19:14:05		Error occured while running the prediction!! Error:: Incorrect number of features. Got 24 features, expected 25
+2020-02-12/19:29:35		Start of Validation on files for prediction!!
+2020-02-12/19:29:35		Raw Data Validation Complete!!
+2020-02-12/19:29:35		Starting Data Transforamtion!!
+2020-02-12/19:29:35		DataTransformation Completed!!!
+2020-02-12/19:29:35		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-12/19:29:56		Table creation Completed!!
+2020-02-12/19:29:56		Insertion of Data into Table started!!!!
+2020-02-12/19:30:19		Insertion in Table completed!!!
+2020-02-12/19:30:19		Deleting Good Data Folder!!!
+2020-02-12/19:30:19		Good_Data folder deleted!!!
+2020-02-12/19:30:19		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/19:30:19		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/19:30:19		Validation Operation completed!!
+2020-02-12/19:30:19		Extracting csv file from table
+2020-02-12/19:30:36		Start of Prediction
+2020-02-12/19:30:36		Entered the get_data method of the Data_Getter class
+2020-02-12/19:30:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/19:30:36		Entered the is_null_present method of the Preprocessor class
+2020-02-12/19:30:36		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/19:30:36		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/19:30:36		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/19:30:36		Entered the load_model method of the File_Operation class
+2020-02-12/19:30:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/19:30:38		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/19:30:38		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/19:30:38		Entered the load_model method of the File_Operation class
+2020-02-12/19:30:38		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/19:30:38		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/19:30:38		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/19:30:38		Entered the load_model method of the File_Operation class
+2020-02-12/19:30:38		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/19:30:38		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/19:30:38		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/19:30:38		Entered the load_model method of the File_Operation class
+2020-02-12/19:30:38		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/19:30:38		End of Prediction
+2020-02-12/22:31:27		Start of Validation on files for prediction!!
+2020-02-12/22:31:27		Raw Data Validation Complete!!
+2020-02-12/22:31:27		Starting Data Transforamtion!!
+2020-02-12/22:31:27		DataTransformation Completed!!!
+2020-02-12/22:31:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-12/22:31:29		Table creation Completed!!
+2020-02-12/22:31:29		Insertion of Data into Table started!!!!
+2020-02-12/22:31:49		Insertion in Table completed!!!
+2020-02-12/22:31:49		Deleting Good Data Folder!!!
+2020-02-12/22:31:49		Good_Data folder deleted!!!
+2020-02-12/22:31:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/22:31:49		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/22:31:49		Validation Operation completed!!
+2020-02-12/22:31:49		Extracting csv file from table
+2020-02-12/22:31:49		Start of Prediction
+2020-02-12/22:31:49		Entered the get_data method of the Data_Getter class
+2020-02-12/22:31:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-12/22:31:49		Entered the is_null_present method of the Preprocessor class
+2020-02-12/22:31:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-12/22:31:49		Entered the impute_missing_values method of the Preprocessor class
+2020-02-12/22:31:49		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-12/22:31:49		Entered the load_model method of the File_Operation class
+2020-02-12/22:31:49		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/22:31:49		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/22:31:49		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/22:31:49		Entered the load_model method of the File_Operation class
+2020-02-12/22:31:49		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/22:31:49		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/22:31:49		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/22:31:49		Entered the load_model method of the File_Operation class
+2020-02-12/22:31:49		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/22:31:50		Entered the find_correct_model_file method of the File_Operation class
+2020-02-12/22:31:50		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-12/22:31:50		Entered the load_model method of the File_Operation class
+2020-02-12/22:31:50		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-12/22:31:50		End of Prediction
