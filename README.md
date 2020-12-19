@@ -1,3 +1,4 @@
+<a href="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb"><img src="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb" style="width: 10px; max-width:10%; height: 10px"/></a>
 # Thyroid-Detection
 ## Problem Statement
 To build a classification methodology to predict the type of Thyroid based on the given training data.
