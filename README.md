@@ -5,6 +5,9 @@ To build a classification methodology to predict the type of Thyroid based on th
 ## Architecture
 ![](Images/architecture.jpg)
 
+<a href="https://drive.google.com/uc?export=view&id=1Pg1EQG6dGE-rC7-ug9k-QXnaSvrGRAZ1"><img src="https://drive.google.com/uc?export=view&id=1Pg1EQG6dGE-rC7-ug9k-QXnaSvrGRAZ1" style="width: 100px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
 ## Data Description
 The client will send data in multiple sets of files in batches at a given location. Data will contain different classes of thyroid and 30 columns of different values.
 "Class" column will have four unique values “negative, compensated_hypothyroid,
